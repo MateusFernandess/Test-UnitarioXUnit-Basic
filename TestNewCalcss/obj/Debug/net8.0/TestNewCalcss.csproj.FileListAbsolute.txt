@@ -1,0 +1,6 @@
+C:\Users\Player\Desktop\Curso\Visual Studio\Inicio\NewCalcs\TestNewCalcss\bin\Debug\net8.0\CoverletSourceRootsMapping_TestNewCalcss
+C:\Users\Player\Desktop\Curso\Visual Studio\Inicio\NewCalcs\TestNewCalcss\obj\Debug\net8.0\TestNewCalcss.csproj.AssemblyReference.cache
+C:\Users\Player\Desktop\Curso\Visual Studio\Inicio\NewCalcs\TestNewCalcss\obj\Debug\net8.0\TestNewCalcss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Player\Desktop\Curso\Visual Studio\Inicio\NewCalcs\TestNewCalcss\obj\Debug\net8.0\TestNewCalcss.AssemblyInfoInputs.cache
+C:\Users\Player\Desktop\Curso\Visual Studio\Inicio\NewCalcs\TestNewCalcss\obj\Debug\net8.0\TestNewCalcss.AssemblyInfo.cs
+C:\Users\Player\Desktop\Curso\Visual Studio\Inicio\NewCalcs\TestNewCalcss\obj\Debug\net8.0\TestNewCalcss.csproj.CoreCompileInputs.cache

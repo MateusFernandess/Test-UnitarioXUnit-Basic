@@ -1,0 +1,4 @@
+C:\Users\Player\Desktop\Curso\Visual Studio\Inicio\NewCalcs\NewCalcs\obj\Debug\net8.0\NewCalcs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Player\Desktop\Curso\Visual Studio\Inicio\NewCalcs\NewCalcs\obj\Debug\net8.0\NewCalcs.AssemblyInfoInputs.cache
+C:\Users\Player\Desktop\Curso\Visual Studio\Inicio\NewCalcs\NewCalcs\obj\Debug\net8.0\NewCalcs.AssemblyInfo.cs
+C:\Users\Player\Desktop\Curso\Visual Studio\Inicio\NewCalcs\NewCalcs\obj\Debug\net8.0\NewCalcs.csproj.CoreCompileInputs.cache
